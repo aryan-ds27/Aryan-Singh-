@@ -2,22 +2,24 @@
 
 🎓 BCA Data Science Student at Amity University  
 💻 Interested in Data Science, Python & AI  
-🚀 Currently learning: Python, Pandas, Machine Learning  
+🚀 Currently learning: C, C++, Python,   
 
----
+
 
 ## 🔧 Skills
 - Python 🐍
-- Data Analysis 📊
-- Git & GitHub
-- Basic Machine Learning
+- C, C++
+- Basic Programming, Problem Solving
+- Git & Github (Beginner) 
+- Currently Learning: Data Science, Python
 
----
+
 
 ## 📂 Projects
-- (in progress)
+- (currently working)
+  
 
----
+
 
 ## 📫 Contact Me
 - Email: (aryansingh10082004@gmail.com)
