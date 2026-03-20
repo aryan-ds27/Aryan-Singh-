@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-ds27&show_icons=true&theme=tokyonight) 
 
 ---
 
