@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Projects
-- (Add your projects here later)
+- (in progress)
 
 ---
 
